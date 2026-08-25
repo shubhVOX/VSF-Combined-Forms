@@ -1,0 +1,18 @@
+<Package xmlns="http://schemas.microsoft.com/navx/2015/manifest">
+  <App Id="fa1e966b-7c9c-4598-9fd9-e864701d2040" Name="VSF_Sales Order 59100" Publisher="VOXISM" Brief="" Description="" Version="1.0.11.2" CompatibilityId="0.0.0.0" PrivacyStatement="" EULA="" Help="" HelpBaseUrl="" ContextSensitiveHelpUrl="https://VOXStandardForms_SalesOrder59100.com/help/" Url="" Logo="/logo/VoxISM.png" Platform="26.0.0.0" Application="26.0.0.0" Runtime="15.0" Target="Cloud" ShowMyCode="False" />
+  <IdRanges>
+    <IdRange MinObjectId="50100" MaxObjectId="59200" />
+  </IdRanges>
+  <Dependencies />
+  <InternalsVisibleTo />
+  <ScreenShots />
+  <SupportedLocales />
+  <Features />
+  <PreprocessorSymbols />
+  <SuppressWarnings />
+  <ResourceExposurePolicy AllowDebugging="false" AllowDownloadingSource="false" IncludeSourceInSymbolFile="false" ApplyToDevExtension="false" />
+  <KeyVaultUrls />
+  <Source />
+  <Build By="AL Language Extension,16.2.1869542" Timestamp="2025-12-15T06:42:22.6259623Z" CompilerVersion="16.2.28.34590" />
+  <AlternateIds />
+</Package>
