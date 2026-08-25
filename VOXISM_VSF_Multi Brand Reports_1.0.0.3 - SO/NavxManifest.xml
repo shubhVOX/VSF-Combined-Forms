@@ -1,0 +1,20 @@
+<Package xmlns="http://schemas.microsoft.com/navx/2015/manifest">
+  <App Id="5136f161-1cad-4f6b-8553-5a9b40c4c317" Name="VSF_Multi Brand Reports" Publisher="VOXISM" Brief="" Description="" Version="1.0.0.3" CompatibilityId="0.0.0.0" PrivacyStatement="" EULA="" Help="" HelpBaseUrl="" Url="" Logo="" Platform="1.0.0.0" Application="27.0.0.0" Runtime="16.0" Target="Cloud" ShowMyCode="False" />
+  <IdRanges>
+    <IdRange MinObjectId="59300" MaxObjectId="59399" />
+  </IdRanges>
+  <Dependencies />
+  <InternalsVisibleTo />
+  <ScreenShots />
+  <SupportedLocales />
+  <Features>
+    <Feature>NOIMPLICITWITH</Feature>
+  </Features>
+  <PreprocessorSymbols />
+  <SuppressWarnings />
+  <ResourceExposurePolicy AllowDebugging="false" AllowDownloadingSource="false" IncludeSourceInSymbolFile="false" ApplyToDevExtension="false" />
+  <KeyVaultUrls />
+  <Source />
+  <Build By="AL Language Extension,17.0.2273547" Timestamp="2026-05-14T12:13:53.7320179Z" CompilerVersion="17.0.34.45391" />
+  <AlternateIds />
+</Package>

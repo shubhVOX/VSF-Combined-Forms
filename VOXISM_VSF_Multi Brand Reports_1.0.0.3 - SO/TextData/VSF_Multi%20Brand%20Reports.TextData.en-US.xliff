@@ -1,0 +1,1881 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="TextDataApp">
+    <body>
+      <group id="body">
+        <trans-unit id="PageExtension 1673401186 - Action 501174034 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Executes the Pre-Shipment Packing List action.</source>
+          <target>Executes the Pre-Shipment Packing List action.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order - Action Multi-Brand Pre-Shipment Packing List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1673401186 - Action 501174034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Multi-Brand Pre-Shipment Packing List</source>
+          <target>Multi-Brand Pre-Shipment Packing List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order - Action Multi-Brand Pre-Shipment Packing List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3332899200 - Action 501174034 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Executes the Pre-Shipment Packing List action.</source>
+          <target>Executes the Pre-Shipment Packing List action.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List - Action Multi-Brand Pre-Shipment Packing List - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3332899200 - Action 501174034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3332899200">
+          <source>Multi-Brand Pre-Shipment Packing List</source>
+          <target>Multi-Brand Pre-Shipment Packing List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Sales Order List - Action Multi-Brand Pre-Shipment Packing List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4255274469 - Control 1123305005 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4255274469">
+          <source>Specifies the Logo that has been set up for the company, such as a company logo.</source>
+          <target>Specifies the Logo that has been set up for the company, such as a company logo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Responsibility Center Card - Control Logo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4255274469 - Control 617267791 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4255274469">
+          <source>Specifies the value of the VAT Registration No. field.</source>
+          <target>Specifies the value of the VAT Registration No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Responsibility Center Card - Control VAT Registration No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4255274469 - Control 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4255274469">
+          <source>VAT Registration No.</source>
+          <target>VAT Registration No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension Responsibility Center Card - Control VAT Registration No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1245640044 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</source>
+          <target>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Display Assembly information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1245640044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Show Assembly Components</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Display Assembly information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1456267971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</source>
+          <target>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control LogInteraction_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1456267971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control LogInteraction_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1557075458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 2 field.</source>
+          <target>Specifies the value of the Tag Line 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Tag Line 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1557075458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 2</source>
+          <target>Tag Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Tag Line 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1997869518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Text field.</source>
+          <target>Specifies the value of the Extended Text field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Extended Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <target>Extended Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2636029594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Comments field.</source>
+          <target>Specifies the value of the Order Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Order Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2636029594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Comments</source>
+          <target>Order Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Order Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2664739415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Reference No. field.</source>
+          <target>Specifies the value of the Item Reference No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Cross Reference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2664739415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Reference No.</source>
+          <target>Item Reference No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Cross Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2789509059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Attribute field.</source>
+          <target>Specifies the value of the Item Attribute field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Item Attribute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2789509059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <target>Item Attribute</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Item Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</source>
+          <target>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <target>Print Company Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2902218401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Seperator Line field.</source>
+          <target>Specifies the value of the Seperator Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Seperator Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2902218401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seperator Line</source>
+          <target>Seperator Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Seperator Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2920696894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived after you preview or print it.</source>
+          <target>Specifies if the document is archived after you preview or print it.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control ArchiveDocument_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2920696894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Archive Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control ArchiveDocument_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2922416150 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount field.</source>
+          <target>Specifies the value of the Discount field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Discount_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 2922416150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <target>Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Discount_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 3462473878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show GL Acct Code field.</source>
+          <target>Specifies the value of the Show GL Acct Code field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control GL Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 3462473878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show GL Acct Code</source>
+          <target>Show GL Acct Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control GL Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 3669815872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifies the value of the Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Item No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 3669815872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Item No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 3938952903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 1 field.</source>
+          <target>Specifies the value of the Tag Line 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Tag Line 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 3938952903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 1</source>
+          <target>Tag Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Tag Line 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 4114425596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Lot No. field.</source>
+          <target>Specifies the value of the Print Lot No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control PrintLotNo_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 4114425596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Lot No.</source>
+          <target>Print Lot No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control PrintLotNo_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 47657272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 2 field.</source>
+          <target>Specifies the value of the Description 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Description 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Description 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 685353889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 1 field.</source>
+          <target>Specifies the value of the Description 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Description 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 685353889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target>Description 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 898183868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Format field.</source>
+          <target>Specifies the value of the Date Format field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Date Format_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 898183868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Format</source>
+          <target>Date Format</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Date Format_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 898183868 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</source>
+          <target>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Date Format_ - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 992669466 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Comments field.</source>
+          <target>Specifies the value of the Line Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Line Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Control 992669466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Comments</source>
+          <target>Line Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Control Line Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 131718392 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Quote</source>
+          <target>Sales Quote</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Quote_VOX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 1456267971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the interaction with the vendor is logged when ,you run the report.</source>
+          <target>Specifies if the interaction with the vendor is logged when ,you run the report.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control LogInteraction_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 1456267971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control LogInteraction_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 1557075458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 2 field.</source>
+          <target>Specifies the value of the Tag Line 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Tag Line 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 1557075458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 2</source>
+          <target>Tag Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Tag Line 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 1997869518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Text field.</source>
+          <target>Specifies the value of the Extended Text field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Extended Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <target>Extended Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2636029594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Comments field.</source>
+          <target>Specifies the value of the Order Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Order Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2636029594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Comments</source>
+          <target>Order Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Order Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2664739415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Reference No. field.</source>
+          <target>Specifies the value of the Item Reference No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Cross Reference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2664739415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Reference No.</source>
+          <target>Item Reference No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Cross Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2789509059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Attribute field.</source>
+          <target>Specifies the value of the Item Attribute field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Item Attribute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2789509059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <target>Item Attribute</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Item Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you are printing on plain paper or if your company address is not pre-printed on your forms. If you do not select this field, the report will omit your company's address.</source>
+          <target>Specifies if you are printing on plain paper or if your company address is not pre-printed on your forms. If you do not select this field, the report will omit your company's address.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <target>Print Company Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2902218401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Seperator Line field.</source>
+          <target>Specifies the value of the Seperator Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Seperator Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2902218401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seperator Line</source>
+          <target>Seperator Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Seperator Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2920696894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived when you run the report.</source>
+          <target>Specifies if the document is archived when you run the report.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control ArchiveDocument_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2920696894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Archive Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control ArchiveDocument_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2922416150 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount field.</source>
+          <target>Specifies the value of the Discount field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Discount_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2922416150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <target>Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Discount_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2941877729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Vendor Item No. field.</source>
+          <target>Specifies the value of the Vendor Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control VendorItemNo_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 2941877729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Item No.</source>
+          <target>Vendor Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control VendorItemNo_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 3462473878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show GL Acct Code field.</source>
+          <target>Specifies the value of the Show GL Acct Code field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control GL Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 3462473878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show GL Acct Code</source>
+          <target>Show GL Acct Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control GL Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 3669815872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifies the value of the Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Item No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 3669815872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Item No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 3938952903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 1 field.</source>
+          <target>Specifies the value of the Tag Line 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Tag Line 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 3938952903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 1</source>
+          <target>Tag Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Tag Line 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 4198158427 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of copies of each blanket purchase order, in addition to the original, that you want to print.</source>
+          <target>Specifies the number of copies of each blanket purchase order, in addition to the original, that you want to print.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control NumberOfCopies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 4198158427 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Copies</source>
+          <target>Number of Copies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control NumberOfCopies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 4290329337 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Lot No. field.</source>
+          <target>Specifies the value of the Lot No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control LotNoBool_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 4290329337 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lot No.</source>
+          <target>Lot No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control LotNoBool_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 47657272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 2 field.</source>
+          <target>Specifies the value of the Description 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Description 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Description 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 685353889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 1 field.</source>
+          <target>Specifies the value of the Description 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Description 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 685353889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target>Description 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 898183868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Format field.</source>
+          <target>Specifies the value of the Date Format field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Date Format_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 898183868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Format</source>
+          <target>Date Format</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Date Format_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 898183868 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</source>
+          <target>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Date Format_ - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 992669466 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Comments field.</source>
+          <target>Specifies the value of the Line Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Line Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Control 992669466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Comments</source>
+          <target>Line Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Control Line Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1428483669 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Order</source>
+          <target>Purchase Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Purchase Order_Vox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1245640044 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</source>
+          <target>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Display Assembly information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1245640044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Show Assembly Components</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Display Assembly information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1456267971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</source>
+          <target>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control LogInteraction_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1456267971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control LogInteraction_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1557075458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 2 field.</source>
+          <target>Specifies the value of the Tag Line 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Tag Line 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1557075458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 2</source>
+          <target>Tag Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Tag Line 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1799392972 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Weight field.</source>
+          <target>Specifies the value of the Extended Weight field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control ExtendedWeight_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1799392972 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Weight</source>
+          <target>Extended Weight</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control ExtendedWeight_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 193859537 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress Qty Back Ordered field.</source>
+          <target>Specifies the value of the Suppress Qty Back Ordered field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control QtyBackOrdered_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 193859537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress Qty Back Ordered</source>
+          <target>Suppress Qty Back Ordered</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control QtyBackOrdered_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1997869518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Text field.</source>
+          <target>Specifies the value of the Extended Text field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Extended Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <target>Extended Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2220186460 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 1 field.</source>
+          <target>Specifies the value of the Description 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Description1_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2220186460 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target>Description 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Description1_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2636029594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Comments field.</source>
+          <target>Specifies the value of the Order Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Order Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2636029594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Comments</source>
+          <target>Order Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Order Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2662815241 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress Weight field.</source>
+          <target>Specifies the value of the Suppress Weight field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Weight_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2662815241 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress Weight</source>
+          <target>Suppress Weight</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Weight_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2664739415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Reference No. field.</source>
+          <target>Specifies the value of the Item Reference No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Cross Reference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2664739415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Reference No.</source>
+          <target>Item Reference No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Cross Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2769679860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress "0" Line field.</source>
+          <target>Specifies the value of the Suppress "0" Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Suppress0Line_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2769679860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress "0" Line</source>
+          <target>Suppress "0" Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Suppress0Line_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2789509059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Attribute field.</source>
+          <target>Specifies the value of the Item Attribute field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Item Attribute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2789509059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <target>Item Attribute</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Item Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</source>
+          <target>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <target>Print Company Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2902218401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Seperator Line field.</source>
+          <target>Specifies the value of the Seperator Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Seperator Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2902218401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seperator Line</source>
+          <target>Seperator Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Seperator Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2920696894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived after you preview or print it.</source>
+          <target>Specifies if the document is archived after you preview or print it.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control ArchiveDocument_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 2920696894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Archive Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control ArchiveDocument_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3120193736 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress Qty Ordered field.</source>
+          <target>Specifies the value of the Suppress Qty Ordered field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control QtyOrdered_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3120193736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress Qty Ordered</source>
+          <target>Suppress Qty Ordered</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control QtyOrdered_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3462473878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show GL Acct Code field.</source>
+          <target>Specifies the value of the Show GL Acct Code field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control GL Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3462473878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show GL Acct Code</source>
+          <target>Show GL Acct Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control GL Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3669815872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifies the value of the Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Item No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3669815872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Item No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3938952903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 1 field.</source>
+          <target>Specifies the value of the Tag Line 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Tag Line 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 3938952903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 1</source>
+          <target>Tag Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Tag Line 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 4114425596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Lot No. field.</source>
+          <target>Specifies the value of the Print Lot No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control PrintLotNo_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 4114425596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Lot No.</source>
+          <target>Print Lot No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control PrintLotNo_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 47657272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 2 field.</source>
+          <target>Specifies the value of the Description 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Description 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Description 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 898183868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Format field.</source>
+          <target>Specifies the value of the Date Format field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Date Format_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 898183868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Format</source>
+          <target>Date Format</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Date Format_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 898183868 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</source>
+          <target>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Date Format_ - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 992669466 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Comments field.</source>
+          <target>Specifies the value of the Line Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Line Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Control 992669466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Comments</source>
+          <target>Line Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Control Line Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1670191673 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pre-Shipment Packing List</source>
+          <target>Pre-Shipment Packing List</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Pre-Shipment Packing List_VOX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 1456267971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</source>
+          <target>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control LogInteraction_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 1456267971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control LogInteraction_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 1557075458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 2 field.</source>
+          <target>Specifies the value of the Tag Line 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Tag Line 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 1557075458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 2</source>
+          <target>Tag Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Tag Line 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 1997869518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Text field.</source>
+          <target>Specifies the value of the Extended Text field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Extended Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <target>Extended Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2636029594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Comments field.</source>
+          <target>Specifies the value of the Order Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Order Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2636029594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Comments</source>
+          <target>Order Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Order Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2664739415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Reference No. field.</source>
+          <target>Specifies the value of the Item Reference No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Cross Reference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2664739415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Reference No.</source>
+          <target>Item Reference No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Cross Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2769679860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress "0" Line field.</source>
+          <target>Specifies the value of the Suppress "0" Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Suppress0Line_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2769679860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress "0" Line</source>
+          <target>Suppress "0" Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Suppress0Line_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2789509059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Attribute field.</source>
+          <target>Specifies the value of the Item Attribute field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Item Attribute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2789509059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <target>Item Attribute</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Item Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</source>
+          <target>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <target>Print Company Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2902218401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Seperator Line field.</source>
+          <target>Specifies the value of the Seperator Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Seperator Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2902218401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seperator Line</source>
+          <target>Seperator Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Seperator Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2922416150 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount field.</source>
+          <target>Specifies the value of the Discount field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Discount_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 2922416150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <target>Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Discount_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 3462473878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show GL Acct Code field.</source>
+          <target>Specifies the value of the Show GL Acct Code field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control GL Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 3462473878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show GL Acct Code</source>
+          <target>Show GL Acct Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control GL Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 3669815872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifies the value of the Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Item No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 3669815872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Item No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 3938952903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 1 field.</source>
+          <target>Specifies the value of the Tag Line 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Tag Line 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 3938952903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 1</source>
+          <target>Tag Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Tag Line 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 4114425596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Lot No. field.</source>
+          <target>Specifies the value of the Print Lot No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control PrintLotNo_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 4114425596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Lot No.</source>
+          <target>Print Lot No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control PrintLotNo_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 47657272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 2 field.</source>
+          <target>Specifies the value of the Description 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Description 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Description 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 898183868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Format field.</source>
+          <target>Specifies the value of the Date Format field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Date Format_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 898183868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Format</source>
+          <target>Date Format</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Date Format_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 898183868 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</source>
+          <target>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Date Format_ - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 936718985 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 1 field.</source>
+          <target>Specifies the value of the Description 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Description1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 936718985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target>Description 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Description1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 992669466 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Comments field.</source>
+          <target>Specifies the value of the Line Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Line Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Control 992669466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Comments</source>
+          <target>Line Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Control Line Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2445470579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Credit Memo</source>
+          <target>Sales Credit Memo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Credit Memo_VOX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1251438199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress "0" Unit Price Line field.</source>
+          <target>Specifies the value of the Suppress "0" Unit Price Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Suppress0UnitPrice_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1251438199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress "0" Unit Price Line</source>
+          <target>Suppress "0" Unit Price Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Suppress0UnitPrice_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1456267971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</source>
+          <target>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control LogInteraction_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1456267971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control LogInteraction_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1557075458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 2 field.</source>
+          <target>Specifies the value of the Tag Line 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Tag Line 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1557075458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 2</source>
+          <target>Tag Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Tag Line 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1832113110 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want notes about additional fees to be shown on the document.</source>
+          <target>Specifies if you want notes about additional fees to be shown on the document.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control DisplayAdditionalFeeNote_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1832113110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Additional Fee Note</source>
+          <target>Show Additional Fee Note</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control DisplayAdditionalFeeNote_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1997869518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Text field.</source>
+          <target>Specifies the value of the Extended Text field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Extended Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <target>Extended Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2636029594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Comments field.</source>
+          <target>Specifies the value of the Order Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Order Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2636029594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Comments</source>
+          <target>Order Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Order Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2664739415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Reference No. field.</source>
+          <target>Specifies the value of the Item Reference No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Cross Reference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2664739415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Reference No.</source>
+          <target>Item Reference No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Cross Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2769679860 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress "0" Line field.</source>
+          <target>Specifies the value of the Suppress "0" Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Suppress0Line_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2769679860 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress "0" Line</source>
+          <target>Suppress "0" Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Suppress0Line_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2789509059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Attribute field.</source>
+          <target>Specifies the value of the Item Attribute field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Item Attribute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2789509059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <target>Item Attribute</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Item Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</source>
+          <target>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <target>Print Company Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2902218401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Seperator Line field.</source>
+          <target>Specifies the value of the Seperator Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Seperator Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2902218401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seperator Line</source>
+          <target>Seperator Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Seperator Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2922416150 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount field.</source>
+          <target>Specifies the value of the Discount field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Discount_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 2922416150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <target>Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Discount_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3104349175 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of copies of each document (in addition to the original) that you want to print.</source>
+          <target>Specifies the number of copies of each document (in addition to the original) that you want to print.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control NoCopies_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3104349175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of Copies</source>
+          <target>Number of Copies</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control NoCopies_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3462473878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show GL Acct Code field.</source>
+          <target>Specifies the value of the Show GL Acct Code field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control GL Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3462473878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show GL Acct Code</source>
+          <target>Show GL Acct Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control GL Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3669815872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifies the value of the Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Item No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3669815872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Item No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3803511157 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</source>
+          <target>Specifies that you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control DisplayAsmInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3803511157 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Show Assembly Components</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control DisplayAsmInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3938952903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 1 field.</source>
+          <target>Specifies the value of the Tag Line 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Tag Line 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 3938952903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 1</source>
+          <target>Tag Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Tag Line 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 4114425596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Lot No. field.</source>
+          <target>Specifies the value of the Print Lot No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control PrintLotNo_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 4114425596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Lot No.</source>
+          <target>Print Lot No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control PrintLotNo_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 47657272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 2 field.</source>
+          <target>Specifies the value of the Description 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Description 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Description 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 685353889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 1 field.</source>
+          <target>Specifies the value of the Description 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Description 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 685353889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target>Description 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 898183868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Format field.</source>
+          <target>Specifies the value of the Date Format field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Date Format_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 898183868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Format</source>
+          <target>Date Format</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Date Format_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 898183868 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</source>
+          <target>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Date Format_ - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 992669466 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Comments field.</source>
+          <target>Specifies the value of the Line Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Line Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Control 992669466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Comments</source>
+          <target>Line Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Control Line Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3335285761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales - Invoice</source>
+          <target>Sales - Invoice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Invoice_VOX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1245640044 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</source>
+          <target>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Display Assembly information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1245640044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Show Assembly Components</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Display Assembly information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1456267971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</source>
+          <target>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control LogInteraction_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1456267971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control LogInteraction_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1557075458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 2 field.</source>
+          <target>Specifies the value of the Tag Line 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Tag Line 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1557075458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 2</source>
+          <target>Tag Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Tag Line 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1997869518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Text field.</source>
+          <target>Specifies the value of the Extended Text field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Extended Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <target>Extended Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2636029594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Comments field.</source>
+          <target>Specifies the value of the Order Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Order Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2636029594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Comments</source>
+          <target>Order Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Order Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2664739415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Reference No. field.</source>
+          <target>Specifies the value of the Item Reference No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Cross Reference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2664739415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Reference No.</source>
+          <target>Item Reference No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Cross Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2789509059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Attribute field.</source>
+          <target>Specifies the value of the Item Attribute field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Item Attribute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2789509059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <target>Item Attribute</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Item Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</source>
+          <target>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <target>Print Company Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2902218401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Seperator Line field.</source>
+          <target>Specifies the value of the Seperator Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Seperator Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2902218401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seperator Line</source>
+          <target>Seperator Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Seperator Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2920696894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived after you preview or print it.</source>
+          <target>Specifies if the document is archived after you preview or print it.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control ArchiveDocument_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2920696894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Archive Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control ArchiveDocument_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2922416150 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount field.</source>
+          <target>Specifies the value of the Discount field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Discount_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 2922416150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <target>Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Discount_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 3462473878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show GL Acct Code field.</source>
+          <target>Specifies the value of the Show GL Acct Code field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control GL Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 3462473878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show GL Acct Code</source>
+          <target>Show GL Acct Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control GL Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 3669815872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifies the value of the Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Item No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 3669815872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Item No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 3938952903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 1 field.</source>
+          <target>Specifies the value of the Tag Line 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Tag Line 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 3938952903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 1</source>
+          <target>Tag Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Tag Line 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 4114425596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Lot No. field.</source>
+          <target>Specifies the value of the Print Lot No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control PrintLotNo_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 4114425596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Lot No.</source>
+          <target>Print Lot No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control PrintLotNo_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 47657272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 2 field.</source>
+          <target>Specifies the value of the Description 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Description 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Description 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 685353889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 1 field.</source>
+          <target>Specifies the value of the Description 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Description 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 685353889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target>Description 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 898183868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Format field.</source>
+          <target>Specifies the value of the Date Format field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Date Format_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 898183868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Format</source>
+          <target>Date Format</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Date Format_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 898183868 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</source>
+          <target>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Date Format_ - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 992669466 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Comments field.</source>
+          <target>Specifies the value of the Line Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Line Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Control 992669466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Comments</source>
+          <target>Line Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Control Line Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3647846079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Proforma Invoice</source>
+          <target>Proforma Invoice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Proforma Invoice_VOX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1245640044 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</source>
+          <target>Specifies if you want the report to include information about components that were used in linked assembly orders that supplied the item(s) being sold.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Display Assembly information - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1245640044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Assembly Components</source>
+          <target>Show Assembly Components</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Display Assembly information - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1251438199 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Suppress "0" Unit Price Line field.</source>
+          <target>Specifies the value of the Suppress "0" Unit Price Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Suppress0UnitPrice_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1251438199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suppress "0" Unit Price Line</source>
+          <target>Suppress "0" Unit Price Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Suppress0UnitPrice_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1456267971 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</source>
+          <target>Specifies if you want to record the related interactions with the involved contact person in the Interaction Log Entry table.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control LogInteraction_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1456267971 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log Interaction</source>
+          <target>Log Interaction</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control LogInteraction_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1557075458 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 2 field.</source>
+          <target>Specifies the value of the Tag Line 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Tag Line 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1557075458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 2</source>
+          <target>Tag Line 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Tag Line 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1997869518 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extended Text field.</source>
+          <target>Specifies the value of the Extended Text field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Extended Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 1997869518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extended Text</source>
+          <target>Extended Text</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Extended Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Options</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2636029594 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Order Comments field.</source>
+          <target>Specifies the value of the Order Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Order Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2636029594 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Comments</source>
+          <target>Order Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Order Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2664739415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Reference No. field.</source>
+          <target>Specifies the value of the Item Reference No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Cross Reference - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2664739415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Reference No.</source>
+          <target>Item Reference No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Cross Reference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2789509059 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item Attribute field.</source>
+          <target>Specifies the value of the Item Attribute field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Item Attribute - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2789509059 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Attribute</source>
+          <target>Item Attribute</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Item Attribute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2834693588 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</source>
+          <target>Specifies if your company address is printed at the top of the sheet, because you do not use pre-printed paper. Leave this check box blank to omit your company's address.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control PrintCompanyAddress - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2834693588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Company Address</source>
+          <target>Print Company Address</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control PrintCompanyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2902218401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Seperator Line field.</source>
+          <target>Specifies the value of the Seperator Line field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Seperator Line - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2902218401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Seperator Line</source>
+          <target>Seperator Line</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Seperator Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2920696894 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the document is archived after you preview or print it.</source>
+          <target>Specifies if the document is archived after you preview or print it.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control ArchiveDocument_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2920696894 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Archive Document</source>
+          <target>Archive Document</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control ArchiveDocument_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2922416150 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Discount field.</source>
+          <target>Specifies the value of the Discount field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Discount_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 2922416150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <target>Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Discount_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 3462473878 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Show GL Acct Code field.</source>
+          <target>Specifies the value of the Show GL Acct Code field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control GL Account - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 3462473878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show GL Acct Code</source>
+          <target>Show GL Acct Code</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control GL Account - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 3669815872 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Item No. field.</source>
+          <target>Specifies the value of the Item No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Item No - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 3669815872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Item No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Item No - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 3938952903 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Tag Line 1 field.</source>
+          <target>Specifies the value of the Tag Line 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Tag Line 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 3938952903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag Line 1</source>
+          <target>Tag Line 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Tag Line 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 4114425596 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Print Lot No. field.</source>
+          <target>Specifies the value of the Print Lot No. field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control PrintLotNo_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 4114425596 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Lot No.</source>
+          <target>Print Lot No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control PrintLotNo_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 47657272 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 2 field.</source>
+          <target>Specifies the value of the Description 2 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Description 2 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 47657272 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 2</source>
+          <target>Description 2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 685353889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description 1 field.</source>
+          <target>Specifies the value of the Description 1 field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Description 1 - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 685353889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description 1</source>
+          <target>Description 1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 898183868 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date Format field.</source>
+          <target>Specifies the value of the Date Format field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Date Format_ - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 898183868 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Format</source>
+          <target>Date Format</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Date Format_ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 898183868 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</source>
+          <target>mm/dd/yyyy,yyyy/mm/dd,mmm/dd/yyyy</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Date Format_ - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 992669466 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Line Comments field.</source>
+          <target>Specifies the value of the Line Comments field.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Line Comments - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Control 992669466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Comments</source>
+          <target>Line Comments</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Control Line Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 642281036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order</source>
+          <target>Sales Order</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales Order_VOX - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 426800504 - Field 1123305005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2247850105">
+          <source>Logo</source>
+          <target>Logo</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MQ_ResponsibilityCenter - Field Logo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 426800504 - Field 617267791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2247850105">
+          <source>VAT Registration No.</source>
+          <target>VAT Registration No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MQ_ResponsibilityCenter - Field VAT Registration No. - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
